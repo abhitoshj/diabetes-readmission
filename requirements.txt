@@ -1,0 +1,15 @@
+#The following python libraries are used in this project
+
+# Data manipulation and analysis
+numpy
+pandas
+scipy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Other utilities
