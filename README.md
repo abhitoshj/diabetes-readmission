@@ -23,6 +23,10 @@ The dataset contains 100k rows of patient's hospitalization data, with a total o
     - [`04-eda-bivariate.ipynb`](./Code/04-eda-bivariate.ipynb)
     - [`05-eda-multivariate.ipynb`](./Code/05-eda-multivariate.ipynb)
     - [`06-eda-summary.ipynb`](./Code/06-eda-summary.ipynb)
+    - [`071-model-training.ipynb`](./Code/071-model-training.ipynb) - Ada Boost, XGB, LGBM
+    - [`072-model-training.ipynb`](./Code/072-model-training.ipynb) - Logistic Regression
+    - [`073-model-training.ipynb`](./Code/073-model-training.ipynb) - Random Forest
+    - [`074-model-training.ipynb`](./Code/074-model-training.ipynb) - Summary
   Please execute the notebooks in the order specified. 
 
 ## Key Features
