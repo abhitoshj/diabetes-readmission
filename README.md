@@ -26,15 +26,18 @@ The dataset contains 100k rows of patient's hospitalization data, with a total o
     - [`071-model-training.ipynb`](./Code/071-model-training.ipynb) - Ada Boost, XGB, LGBM
     - [`072-model-training.ipynb`](./Code/072-model-training.ipynb) - Logistic Regression
     - [`073-model-training.ipynb`](./Code/073-model-training.ipynb) - Random Forest
-    - [`074-model-training.ipynb`](./Code/074-model-training.ipynb) - Summary
-  Please execute the notebooks in the order specified. 
+    - [`074-model-training-summary.ipynb`](./Code/074-model-training.ipynb) - Summary
+  Please execute the notebooks 01 and 02, that is a prerequisite for running all other note books
 
 ## Key Features
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA)
 - Feature engineering
 - Visualization of readmission patterns
-- Predictive modeling (details to be added)
+- Predictive modeling using following ML models
+    -Decision Tree
+    -Logistic Regression
+    -Ensemble methods - AdaBoost, XGB, LGBM
 
 ## Requirements
 - Requires Python 3.12 or higher
