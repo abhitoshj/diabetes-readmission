@@ -27,7 +27,11 @@ The dataset contains 100k rows of patient's hospitalization data, with a total o
     - [`072-model-training.ipynb`](./Code/072-model-training.ipynb) - Logistic Regression
     - [`073-model-training.ipynb`](./Code/073-model-training.ipynb) - Random Forest
     - [`074-model-training-summary.ipynb`](./Code/074-model-training.ipynb) - Summary
-  Please execute the notebooks 01 and 02, that is a prerequisite for running all other note books
+- `Doc/`: Report and Presentation
+    - [`ProjectReport.pdf`](./Doc/ProjectReport.pdf): Final project report
+    - [`Presentation.pdf`](./Doc/Presentation.pdf): Presentation
+
+Please execute the notebooks 01 and 02, that is a prerequisite for running all other note books
 
 ## Key Features
 - Data preprocessing and cleaning
